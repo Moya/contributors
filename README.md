@@ -1,4 +1,4 @@
-### Moya Contributors Guidelines v1.0.0
+### Moya Contributors Guidelines v1.1.0
 
 ##### Background
 
@@ -34,7 +34,7 @@ It's normal for a first PR to be a potential fix for a problem, moving on from t
 
 We keep all project discussion inside GitHub issues. If you have questions about how to use the library, or how the project is running GitHub issues are the [goto tool](https://github.com/Moya/Moya/issues/new).
 
-We have our own [Code of Conduct](https://github.com/Moya/code-of-conduct), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.2.0, available at [http://contributor-covenant.org/version/1/2/0/](http://contributor-covenant.org/version/1/2/0/). The CoC is taken seriously by the project owners.
+We have our own [Code of Conduct](Code of Conduct.md), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.3.0, available at [http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/). The CoC is taken seriously by the project owners.
 
 #### Our expectations on you as a contributor
 
