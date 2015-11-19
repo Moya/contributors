@@ -1,4 +1,4 @@
-### Moya Contributors
+### Moya Contributors Guidelines v1.0.0
 
 ##### Background
 
