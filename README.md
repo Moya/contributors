@@ -3,9 +3,9 @@
 
 Moya started out as a project in Artsy under the ownership of [Ash Furrow](https://github.com/ashfurrow) and [Orta Therox](https://github.com/orta). Over time, developers from the community began using Moya and it became a community-driven project.
 
-After watching [The Social Coding Contract](http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html) we opted to find ways to make [the project](https://github.com/Moya/Moya/issues/135) more welcoming to external contributors.
+After watching [The Social Coding Contract](http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html) we looked to find ways to make [the project](https://github.com/Moya/Moya/issues/135) more welcoming to external contributors.
 
-Because of the created the [Moya Community document](https://github.com/Moya/contributors/blob/0d5e80682b2377bdca72585eda9ce83467bee3c4/README.md) - over time this has been adopted in more projects.
+Because of this, we created the [v1 Moya Community document](https://github.com/Moya/contributors/blob/0d5e80682b2377bdca72585eda9ce83467bee3c4/README.md) - over time the ideas have spread to more projects. This eventually lead to the creation of a more easily applicable template.
 
 This repo contains a document [Community.md](Community.md) which is a template for others to help foster their own communities. Think of it as a code of conduct for the continuity of your community.
 
@@ -18,8 +18,7 @@ Great! So, this is not quite another file to copy & paste into your project. It'
 It's not too many steps though, and the majority of them are common sense things you would do anyway.
 
 - [ ] Copy the Changelog.md into your repo
-  - Change [email] to your email
-  - Change [org] to your organization
+  - Change the bottom paragraph to show how people can contact organizers privately 
 
 - [ ] Ensure that it makes sense when the guidelines talk about it not being continuously deployed. If it doesn't make sense, remove it.
   - For example, in a library, you have to deploy to a package manager. This means there is always a chance for cleanup and final reviews before a release.
