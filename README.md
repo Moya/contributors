@@ -13,13 +13,12 @@ This repo contains a document [Community.md](Community.md) which is a template f
 
 ### I want to apply these guidelines
 
-Great! So, this is not quite another file to copy & paste into your project. It's slightly more involved.
+Great! So, this is not quite another file to copy & paste into your project. It's slightly more involved. 
 
 It's not too many steps though, and the majority of them are common sense things you would do anyway.
 
 - [ ] Copy the file `Community.md` into your repo.
 - [ ] Change the bottom paragraph to show how people can contact organizers privately
-
 - [ ] Ensure that it makes sense when the guidelines talk about the project not being continuously deployed. If it doesn't make sense, remove it.
   - For example, in a library, you have to deploy to a package manager. This means there is always a chance for cleanup and final reviews before a release.
 
@@ -35,6 +34,12 @@ In our opinion, you're also welcome to add some flourish at the top about why yo
 
 - [Danger](https://github.com/danger/danger) is a project that can be used during CI that can check to see [if someone is inside an organization](https://github.com/danger/danger/blob/93f4f1e92f9748ab04a148b6c60c431a0247efcc/Dangerfile#L7-L15), making it possible to ask if they would like to be invited.
 - There has been discussion in the issues here about building a service that could automate this. If it's something you're interested in, you're welcome to take a shot at it.
+
+##### Other references
+
+* The [Jekyll Project](https://github.com/jekyll/jekyll) has some great documentation around [being a maintainer, and avoiding burnout](https://github.com/jekyll/jekyll/pull/5011/files).
+* The Jekyll's maintainer documentation is based on [Homebrew's](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Maintainers-Avoiding-Burnout.md).
+* CocoaPods has a [Communication & Design Rules](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) which provides advice for project maintainers.
 
 ### I want to improve the Community Continuity Guidelines
 
