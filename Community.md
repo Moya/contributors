@@ -45,8 +45,8 @@ If someone submits a pull request that's not perfect, and you are reviewing, it'
 #### What about if you have problems that cannot be discussed in a public issue?
 
 [ This is an example version, please delete this and replace with your own version ]
-Both [Ash Furrow](https://github.com/ashfurrow) and [Orta Therox](https://github.com/orta) have contactable emails on their GitHub profiles, and are happy to talk about any problems.
+Both [Jane Bloggs](https://github.com/jane_b) and [Taylor Webb](https://github.com/twebb) have contactable emails on their GitHub profiles, and are happy to talk about any problems.
 
 #### Where can I get more info about this document?
 
-The original source of this document can is at https://github.com/moya/contributors
+The original source of this document can be found at https://github.com/moya/contributors.
