@@ -33,7 +33,7 @@ In our opinion, you're also welcome to add some flourish at the top about why yo
 ### Useful Bits of information for project owners
 
 - [Danger](https://github.com/danger/danger) is a project that can be used during CI that can check to see [if someone is inside an organization](https://github.com/danger/danger/blob/93f4f1e92f9748ab04a148b6c60c431a0247efcc/Dangerfile#L7-L15), making it possible to ask if they would like to be invited.
-- There has been discussion in the issues here about building a service that could automate this. If it's something you're interested in, you're welcome to take a shot at it.
+- We believe so firmly in these community guidelines that [we have automated them](https://github.com/Moya/Aeryn).
 
 ##### Other references
 
