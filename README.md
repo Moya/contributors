@@ -49,7 +49,7 @@ We consider extra guidelines as being major releases, tweaks to existing rules a
 
 ### This Repo
 
-We use a [Code of Conduct](Code of Conduct.md), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.3.0, available at [http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/). The CoC is taken seriously by the project owners.
+We use a [Code of Conduct](https://github.com/Moya/contributors/blob/master/Code%20of%20Conduct.md), which is adapted from the [Contributor Covenant](http://contributor-covenant.org), version 1.3.0, available at [http://contributor-covenant.org/version/1/3/0/](http://contributor-covenant.org/version/1/3/0/). The CoC is taken seriously by the project owners.
 
 #### What about if you have questions that cannot be put into a public issue?
 
