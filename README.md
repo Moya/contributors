@@ -24,7 +24,7 @@ It's not too many steps though, and the majority of them are common sense things
 
 - [ ] [Lock the master branch](https://help.github.com/articles/configuring-protected-branches/), to ensure code review as the way to get code in. Even for admins. Everyone plays by the rules.
 
-- [ ] Ensure there is a label for people to find easy issues with. We strongly recommend you use a [label name from one of this set](https://github.com/Charlotteis/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) in order to be invovled with the larger ecosystem.
+- [ ] Ensure there is a label for people to find easy issues with. We strongly recommend you use a [label name from one of this set](https://github.com/Charlotteis/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) in order to be involved with the larger ecosystem.
 
 And you're good. 
 
