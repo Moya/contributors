@@ -1,6 +1,6 @@
 # Moya Core Team
 
-The Moya Core Team is a group of Moya contributors that have demonstrated a lasting enthusiasm for the project and community. 
+The Moya Core Team is a group of Moya contributors that have demonstrated a lasting enthusiasm for the project and community. The Core Team has GitHub admin privileges on all Moya repos.
 
 ## Core Team Responsibilities
 
