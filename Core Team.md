@@ -24,6 +24,8 @@ Note that the Moya Core Team – and all Moya contributors – are open source _
 - [@Dschee](https://github.com/Dschee)
 - [@colinta](https://github.com/colinta)
 - [@SD10](https://github.com/SD10)
+- [@ashfurrow](https://github.com/ashfurrow)
+- [@orta](https://github.com/orta)
 
 ## Adding new Core Team Members
 
