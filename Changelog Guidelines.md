@@ -29,9 +29,9 @@ Here you can find the general guidelines for maintaining the Changelog (or addin
 
 ## [9.0.0] - 2017-09-04
 ### Added
-- Tests for `Single<Response>` operators. [#1229](https://github.com/Moya/Moya/pull/1229) by [@freak4pc](http://github.com/freak4pc)
+- Added tests for `Single<Response>` operators. [#1229](https://github.com/Moya/Moya/pull/1229) by [@freak4pc](http://github.com/freak4pc)
 
 ### Changed
-- **Breaking Change** `TargetType` so it doesn't have `parameters` & `parameterEncoding`. Instead, `task` property offer similar functionalities. [#1147](https://github.com/Moya/Moya/pull/1147) by [@Dschee](http://github.com/Dschee)
+- **Breaking Change** Changed the `TargetType` so it doesn't have `parameters` & `parameterEncoding`. Instead, `task` property offer similar functionalities. [#1147](https://github.com/Moya/Moya/pull/1147) by [@Dschee](http://github.com/Dschee)
 - `Endpoint` initializer so it doesn't have default `task` argument. [#1252](https://github.com/Moya/Moya/pull/1252) by [@SD10](http://github.com/SD10)
 
