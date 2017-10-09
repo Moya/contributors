@@ -33,5 +33,5 @@ Here you can find the general guidelines for maintaining the Changelog (or addin
 
 ### Changed
 - **Breaking Change** Changed the `TargetType` so it doesn't have `parameters` & `parameterEncoding`. Instead, `task` property offer similar functionalities. [#1147](https://github.com/Moya/Moya/pull/1147) by [@Dschee](http://github.com/Dschee)
-- `Endpoint` initializer so it doesn't have default `task` argument. [#1252](https://github.com/Moya/Moya/pull/1252) by [@SD10](http://github.com/SD10)
+- Changed the `Endpoint` initializer so it doesn't have default `task` argument. [#1252](https://github.com/Moya/Moya/pull/1252) by [@SD10](http://github.com/SD10)
 
