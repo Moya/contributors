@@ -38,7 +38,7 @@ In our opinion, you're also welcome to add some flourish at the top about why yo
 ##### Other references
 
 * The [Jekyll Project](https://github.com/jekyll/jekyll) has some great documentation around [being a maintainer, and avoiding burnout](https://github.com/jekyll/jekyll/pull/5011/files).
-* The Jekyll's maintainer documentation is based on [Homebrew's](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Maintainers-Avoiding-Burnout.md).
+* The Jekyll's maintainer documentation is based on [Homebrew's](https://github.com/Homebrew/brew/blob/master/docs/Maintainers-Avoiding-Burnout.md).
 * CocoaPods has a [Communication & Design Rules](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) which provides advice for project maintainers.
 
 ### I want to improve the Community Continuity Guidelines
